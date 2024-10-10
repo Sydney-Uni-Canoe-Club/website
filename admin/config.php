@@ -6,12 +6,12 @@ if ($actual_link == 'localhost') {
     $host_name = '127.0.0.1';
     $user_name = "root";
     $password = "";
-    $database = 'australia';
+    $database = 'usyddkuf_database';
 } else {
     $host_name = 'localhost';
-    $user_name = "previewacd4";
-    $password = "Vmeo8225@";
-    $database = 'previewacd4';
+    $user_name = "usyddkuf_user";
+    $password = "horseeatingalemon";
+    $database = 'usyddkuf_database';
 }
 
 
