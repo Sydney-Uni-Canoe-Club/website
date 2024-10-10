@@ -4,8 +4,8 @@ session_start();
 $actual_link = $_SERVER['HTTP_HOST'];
 if ($actual_link == 'localhost') {
     $host_name = '127.0.0.1';
-    $user_name = "root";
-    $password = "";
+    $user_name = "usyddkuf_user";
+    $password = "horseeatingalemon";
     $database = 'usyddkuf_database';
 } else {
     $host_name = 'localhost';
